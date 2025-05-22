@@ -1,0 +1,1 @@
+# validador-de-bandeiras-de-cart-o
